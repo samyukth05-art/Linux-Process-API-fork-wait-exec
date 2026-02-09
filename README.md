@@ -37,8 +37,7 @@ Test the C Program for the desired output.
 
 
 
-##OUTPUT ![WhatsApp Image 2026-02-09 at 1 48 14 PM](https://github.com/user-attachments/assets/64de64a2-330e-4596-aa71-e11445600950)
-
+##OUTPUT ![WhatsApp Image 2026-02-09 at 1 54 19 PM](https://github.com/user-attachments/assets/fd3646d1-28ad-45d1-8e97-f6bb3445469c)
 
 
 
@@ -74,7 +73,8 @@ Test the C Program for the desired output.
 
 
 
-##OUTPUT ![WhatsApp Image 2026-02-09 at 1 47 27 PM](https://github.com/user-attachments/assets/8cb6784a-e1a6-43de-80e0-a379dc69a65f)
+##OUTPUT ![WhatsApp Image 2026-02-09 at 1 47 27 PM](https://github.com/user-attachments/assets/d2ddebca-79ef-4448-b079-0df85111fd17)
+
 
 
 
